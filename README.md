@@ -10,8 +10,10 @@ Drag and drop the entire folder into your `/minecraft/resoucepacks` folder, and 
 - Removed red color from zeiton ore
 - Made varos plastic ore more white, varos lapis ore more blue
 - Gallifrey grass is all red now
+- Changed gallifrey dirt slightly, removing the white spots
 - Zygons are more distinguishable, made them have 1 green eye only
 - Removed gallifreyan symbols which overlays menu
 - Removed space suit helmet overlay
 
-Also, no more hand in jar bubbling sound effect!
+### Sounds changed:
+- No more hand in jar bubbling sound effect!
