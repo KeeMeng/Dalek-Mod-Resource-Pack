@@ -5,12 +5,15 @@
 Drag and drop the entire folder into your `/minecraft/resoucepacks` folder, and choose Dalek Mod + as your resource pack. 
 
 ### Textures changed: 
+- Epsimo, RGB roundels/strip, granite roundels have smoother textures
 - Safe looks like a chest
-- Epsimo roundel/outline and granite match up nicer, smoother gray color
+- Gear block/texture has more frames per second, more smooth
 - Removed red color from zeiton ore
 - Made varos plastic ore more white, varos lapis ore more blue
+- Silicate ore is light gray instead of black now
+- Dalekanium nugget is shaped like a nugget now
 - Gallifrey grass is all red now
-- Changed gallifrey dirt slightly, removing the white spots
+- Changed gallifrey dirt slightly, removing the white spots and make it slightly red
 - Zygons are more distinguishable, made them have 1 green eye only
 - Removed gallifreyan symbols which overlays menu
 - Removed space suit helmet overlay
