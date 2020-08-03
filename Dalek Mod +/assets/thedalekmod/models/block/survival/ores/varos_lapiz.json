@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/survival/ores/varos_lapiz",
+        "bottom": "thedalekmod:blocks/dim_blocks/varos/sandstone_bottom",
+        "top": "thedalekmod:blocks/dim_blocks/varos/sandstone_top",
+        "side": "thedalekmod:blocks/survival/ores/varos_lapiz"
+    }
+}

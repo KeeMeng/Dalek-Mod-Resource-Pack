@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "thedalekmod:survival/ores/varos_lapiz" , "weight": 3 },
+            { "model": "thedalekmod:survival/ores/varos_lapiz1" , "weight": 1 },
+			{ "model": "thedalekmod:survival/ores/varos_lapiz2" , "weight": 1 },
+			{ "model": "thedalekmod:survival/ores/varos_lapiz3" , "weight": 1 }
+        ]
+    }
+}
