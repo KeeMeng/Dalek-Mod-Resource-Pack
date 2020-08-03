@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "thedalekmod:survival/ores/varos_plastic" , "weight": 3 },
+            { "model": "thedalekmod:survival/ores/varos_plastic1" , "weight": 1 },
+            { "model": "thedalekmod:survival/ores/varos_plastic2" , "weight": 1 },
+			{ "model": "thedalekmod:survival/ores/varos_plastic3" , "weight": 1 }
+        ]
+    }
+}
