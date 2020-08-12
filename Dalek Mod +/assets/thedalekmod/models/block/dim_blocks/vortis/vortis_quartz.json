@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "thedalekmod:blocks/dim_blocks/vortis/vortis_quartz",
+        "glow": "thedalekmod:blocks/dim_blocks/vortis/vortis_quartz_glow"
+    }
+}

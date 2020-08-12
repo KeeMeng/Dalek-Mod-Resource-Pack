@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "thedalekmod:blocks/survival/ores/sonic_crystal_ore",
+        "glow": "thedalekmod:blocks/survival/ores/sonic_crystal_ore_glow"
+    }
+}

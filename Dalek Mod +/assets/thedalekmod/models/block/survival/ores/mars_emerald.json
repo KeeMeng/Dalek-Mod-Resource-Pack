@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "thedalekmod:blocks/survival/ores/mars_emerald",
+        "glow": "thedalekmod:blocks/survival/ores/mars_emerald_glow"
+    }
+}
