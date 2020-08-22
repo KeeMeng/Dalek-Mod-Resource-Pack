@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thedalekmod:blocks/tardis_blocks/roundels/b/round_thing_4_ctm"
+        ]
+    }
+}

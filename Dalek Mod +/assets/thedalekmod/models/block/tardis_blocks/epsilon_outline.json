@@ -1,0 +1,10 @@
+{
+    "parent": "block/util_cube_glow_2_column",
+    "textures": {
+        "particle": "thedalekmod:blocks/tardis_blocks/epsilonoutline",
+        "side": "thedalekmod:blocks/tardis_blocks/epsilonoutline",
+        "end": "thedalekmod:blocks/tardis_blocks/epsilonoutline2",
+        "glow_side": "thedalekmod:blocks/tardis_blocks/epsilonoutline_glow",
+        "glow_end": "thedalekmod:blocks/tardis_blocks/epsilonoutline2_glow"
+    }
+}

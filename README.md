@@ -2,7 +2,11 @@
 
 ## Improving some textures for The Dalek Mod
 
-Drag and drop the entire folder into your `/minecraft/resourcepacks` folder, and choose Dalek Mod + as your resource pack. You can also select which textures you don't want by deleting it from the folder
+CTM (Connected Textures Mod) is required for this resource pack, to add the connected textures as well as glowing ores/roundels. If you don,t some textures will be really strange
+
+Install resource pack: Drag and drop the entire "Dalek Mod +" folder into your `/minecraft/resourcepacks` folder, and choose Dalek Mod + as your resource pack. You can also select which textures you don't want by deleting it from the folder. 
+
+Install CTM: Download the 1.12.2 version of CTM from https://www.curseforge.com/minecraft/mc-mods/ctm/files and drag it into `/minecraft/mods` folder, and relaunch minecraft. 
 
 ### Blocks changed: 
 - Safe looks like a chest

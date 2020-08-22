@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thedalekmod:blocks/tardis_blocks/master/master_light_roundel_b_ctm"
+        ]
+    }
+}

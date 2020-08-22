@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thedalekmod:blocks/survival/clockwork/clockworkblock_1_ctm"
+        ]
+    }
+}

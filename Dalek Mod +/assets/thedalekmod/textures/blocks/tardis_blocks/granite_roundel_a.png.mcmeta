@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thedalekmod:blocks/tardis_blocks/granite_roundel_a_ctm"
+        ]
+    }
+}

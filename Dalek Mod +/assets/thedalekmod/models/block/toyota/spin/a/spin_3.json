@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "thedalekmod:blocks/toyota/spin/a/spin_g_top",
+        "glow": "thedalekmod:blocks/toyota/spin/a/spin_g_top_glow"
+    }
+}

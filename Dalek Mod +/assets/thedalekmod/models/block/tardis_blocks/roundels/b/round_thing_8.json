@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "thedalekmod:blocks/tardis_blocks/roundels/b/round_thing_8",
+        "glow": "thedalekmod:blocks/tardis_blocks/roundels/b/round_thing_8_glow"
+    }
+}
